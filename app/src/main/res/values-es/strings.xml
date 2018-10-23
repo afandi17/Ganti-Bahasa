@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyLanguageApp</string>
+    <string name="hello_world">Hello Mundo, </string>
+    <string name="good_morning">BuenosDias</string>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d cancion fundar.</item>
+        <item quantity="other">%d cancionesfundar</item>
+    </plurals>
+    <string name="app_homeurl"> visit us at <xliff:g id="application_homepage">http://if.uinsgd.ac.id/</xliff:g></string>
+</resources>
